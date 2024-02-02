@@ -1,2 +1,4 @@
 # code_git
-Git Course at Dyananda Sagar
+Git Course at Dayananda Sagar
+
+On 2nd Feb 2024
